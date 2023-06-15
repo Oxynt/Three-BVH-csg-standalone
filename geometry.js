@@ -11,7 +11,7 @@ import {
 	SUBTRACTION,
 	INTERSECTION,
 	DIFFERENCE,
-} from '..';
+} from 'three-mesh-bvh-csg';
 
 const params = {
 
